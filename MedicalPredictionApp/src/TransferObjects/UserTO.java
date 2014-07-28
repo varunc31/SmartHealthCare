@@ -1,7 +1,7 @@
 package TransferObjects;
 
 public class UserTO {
-	
+	/* */
 	private String userName;
 	private String email;
 	private String password;
